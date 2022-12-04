@@ -2,4 +2,4 @@
 
 I have created Dashboard for Adventure Works.
 
-Technology used: SQL and Power BI
+Technology used: SQL, Power Query and Power BI. 
